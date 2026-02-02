@@ -48,10 +48,3 @@ Este projeto foi desenvolvido com fins educacionais e práticos, visando:
 - **colorama** — Cores no terminal
 - **keyboard** — Interação via teclado
 
----
-
-## ▶️ Como Executar
-
-### 1️⃣ Clonar o repositório
-```bash
-git clone https://github.com/seuusuario/monitor-sistema-rede.git
